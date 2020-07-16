@@ -16,7 +16,7 @@ Purpose of code is just demo how to use git
 
 ## How to contribute
 
-
+Please fork this repository and then issue pull request
 
 ## Deployment 
 
