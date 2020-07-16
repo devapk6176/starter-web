@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 
 This is a sample website project for showing how to use
 Git and GitHub together.  Adding a line rebaseline the project.
+More changes from myfeature branch
 
 ## Purpose
 
