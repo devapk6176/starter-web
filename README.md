@@ -25,4 +25,4 @@ This section describes how to deploy the code to production
 
 ## Copyright 
 
-This is copy right section
+This is copy right section.  New comment. 
