@@ -21,3 +21,7 @@ Purpose of code is just demo how to use git
 ## Deployment 
 
 This section describes how to deploy the code to production
+
+## Copyright 
+
+This is copy right section
